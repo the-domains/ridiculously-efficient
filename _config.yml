@@ -1,0 +1,29 @@
+typography_spectrum: 0.7724987398833036
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1489736377261579
+  lightness: 0.1697228718549013
+  saturation: 0.8807705768849701
+  rhythmicContrast: 0.2905186964198947
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.46543731284327805
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ridiculously Efficient
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Unshackle Your Schedule
+purpose: []
