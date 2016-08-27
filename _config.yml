@@ -1,4 +1,19 @@
+name: Ridiculously Efficient
+favicon: null
+layout_spectrum: 0.46543731284327805
 typography_spectrum: 0.7724987398833036
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -10,28 +25,4 @@ color:
   lightness: 0.1697228718549013
   saturation: 0.8807705768849701
   rhythmicContrast: 0.2905186964198947
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.46543731284327805
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: Marissa Brassfield
-  email: marissa@ridiculouslyefficient.com
-  url: 'http://ridiculouslyefficient.com'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2274aa0d-1d48-402c-aaa2-6412c35a3277.png
-name: Ridiculously Efficient
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61cdc58c-3013-4de2-b8f0-aa63ef89ba06.ico
-title: Unshackle Your Schedule
-description: Creating Freedom Through High Performance
 purpose: []
